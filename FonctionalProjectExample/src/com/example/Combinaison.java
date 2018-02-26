@@ -8,9 +8,9 @@ public class Combinaison {
 	 * 
 	 * nombreCombinaison = n-1 + n-2 + n-3
 	 * 
+	 * 111
 	 * 
 	 * 2222
-	 * 
 	 * 
 	 * 
 	 * 
