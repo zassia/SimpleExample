@@ -1,4 +1,6 @@
-public class updateClass {
+package com.example;
+
+public class TestUpdate {
 
 
 
